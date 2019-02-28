@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-https://github.com/My-TRAC/ConfigurationScripts.git
+git clone https://github.com/My-TRAC/ConfigurationScripts.git
 ./ConfigurationScripts/waitForKafkaConenct.sh
 
 
